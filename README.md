@@ -40,6 +40,7 @@ Passengers in first class were more likely to survive than those in lower classe
 Age and fare were moderately correlated with survival.
 
 🤖 Model Performance
+
 A logistic regression  were trained and evaluated using accuracy and precision metrics. The  model achieved an accuracy of approximately 79% on the data provided. 
 
 
