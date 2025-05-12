@@ -29,9 +29,10 @@ Matplotlib, Seaborn – Data visualization
 
 Scikit-learn – Machine learning and model evaluation
 
-Colab Notebook – Interactive analysis
+Jupyter Notebook – Interactive analysis
 
 📈 Key Findings
+
 Female passengers had significantly higher survival rates than males.
 
 Passengers in first class were more likely to survive than those in lower classes.
